@@ -13,7 +13,11 @@ This project uses an **HC-SR04 Ultrasonic Sensor** to measure distance and visua
 - **Breadboard** 🔬
 
 ---
+## 🎯 Circuit Diagram
 
+![Arduino Uno Circuit Diagram](http://url/to/img.png)
+
+---
 ## ⚡ Wiring Diagram
 | Component | Arduino Pin |
 |-----------|------------|
