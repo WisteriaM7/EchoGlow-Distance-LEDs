@@ -15,7 +15,7 @@ This project uses an **HC-SR04 Ultrasonic Sensor** to measure distance and visua
 ---
 ## 🎯 Circuit Diagram
 
-![Arduino Uno Circuit Diagram](http://url/to/img.png)
+![Arduino Uno Circuit Diagram](https://github.com/WisteriaM7/EchoGlow-Distance-LEDs/blob/main/FJPX0MDKDFYHO7Z.jpg)
 
 ---
 ## ⚡ Wiring Diagram
